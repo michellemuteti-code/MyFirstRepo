@@ -1,1 +1,5 @@
-Brief Introduction About Myself I'm a SOC Analyst with expertise in Incident Response, Digital Forensics, Threat Intelligence, and Phishing Analysis, and I am a passionate Front-End Developer. My work revolves around cybersecurity and creating engaging content and user-friendly web experiences. Here you'll find information about my skills, contributions, and key projects. Feel free to explore and connect. I am eager to contribute to a team where I can make a tangible impact and continue to grow my skills.
+Brief Introduction About Myself
+
+My name is Michelle Mutete Muteti. I am currently working on system engineering and DevOps projects as part of my ALX learning journey. I enjoy solving problems with Bash scripting, GitHub workflows, and building efficient project structures.
+
+Beyond coding, I am passionate about healthcare technology and creating solutions that improve accessibility and transparency. I value persistence, clarity, and practical debugging in my work.
