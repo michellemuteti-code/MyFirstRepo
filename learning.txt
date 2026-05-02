@@ -1,1 +1,1 @@
-What I have learned from this course: about github and pushing the repo in different way.
+During this course, I have learned how to manage repositories effectively using Git and GitHub. I now understand how to create branches, resolve conflicts, and push changes confidently. This has improved my ability to collaborate on projects and maintain clean, organized codebases.
