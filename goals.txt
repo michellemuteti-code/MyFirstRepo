@@ -1,1 +1,5 @@
-My Personal and Academic Goals for Next Year: Going tostudy at ALCHE for Computer Science, and also doing Bug bounty, while upskill in my ethical hacking/web penetration testing
+My Personal and Academic Goals for Next Year
+- Complete all ALX DevOps and system engineering projects successfully
+- Strengthen my Bash scripting and GitHub workflow skills
+- Contribute to open source projects
+- Explore healthcare web applications with React and Firebase
