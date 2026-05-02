@@ -1,5 +1,3 @@
 Brief Introduction About Myself
-
 My name is Michelle Mutete Muteti. I am currently working on system engineering and DevOps projects as part of my ALX learning journey. I enjoy solving problems with Bash scripting, GitHub workflows, and building efficient project structures.
-
 Beyond coding, I am passionate about healthcare technology and creating solutions that improve accessibility and transparency. I value persistence, clarity, and practical debugging in my work.
