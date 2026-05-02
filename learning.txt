@@ -1,1 +1,2 @@
-During this course, I have learned how to manage repositories effectively using Git and GitHub. I now understand how to create branches, resolve conflicts, and push changes confidently. This has improved my ability to collaborate on projects and maintain clean, organized codebases.
+Reflection on My Learning Journey
+Through this project, I have learned how to use Git and GitHub to manage repositories, create branches, resolve conflicts, and make pull requests. These skills have improved my confidence in version control and collaboration. I now understand the importance of clean, organized codebases and efficient workflows, which I will apply in my future DevOps and system engineering projects.
